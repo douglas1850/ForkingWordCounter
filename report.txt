@@ -1,0 +1,4 @@
+a) Status of program: Completed
+b) Design of program: loops argc-1 number of times (don't want to count execution file) then forks. If inside child process (pid == 0) then pass the file name to wordCount function for number of words to be counted. wordCount function counts words by the number of spaces in the file. After all files have had their words counted, exit for loop and print the number of files that have had their words counted. 
+c) Help recieved: None other than Stack Overflow
+d) Comments and Suggestions: I actually thought this assignment was well explained and of reasonable difficulty. I don't have any improvments to make. 
